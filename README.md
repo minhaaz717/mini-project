@@ -1,10 +1,12 @@
-|Build     | Unittesting | Git- Inspector| Cppcheck    |
-|--------- |-------------|-------------- |-------------|
+|Build     | Unittesting | Git- Inspector| Cppcheck    | code inspector|
+|--------- |-------------|-------------- |-------------|---------------|
 
 |![Static Code Analysis](https://github.com/minhaaz717/mini-project/actions/workflows/static-code.yml/badge.svg?branch=main)|
 |![Unit testing](https://github.com/minhaaz717/mini-project/actions/workflows/unit_testing.yml/badge.svg?branch=main)|
 |![Contribution Check - Git Inspector](https://github.com/minhaaz717/mini-project/actions/workflows/git-inspector.yml/badge.svg?branch=main)|
 |![Code Quality - Static Code - Cppcheck](https://github.com/minhaaz717/mini-project/actions/workflows/cpp_check.yml/badge.svg?branch=main)|
+|![Code inspector score](https://www.code-inspector.com/project/25257/score/svg)|
+|![Code inspector status](https://www.code-inspector.com/project/25257/status/svg)|
 
 
 
