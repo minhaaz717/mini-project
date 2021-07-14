@@ -1,6 +1,5 @@
 |Build     | Unittesting | Git- Inspector| Cppcheck    | code inspector|
-|--------- |-------------|-------------- |-------------|---------------|
-
+|:--------:|:-------------:|:--------------:|:-------------:|:---------------:|
 |![Static Code Analysis](https://github.com/minhaaz717/mini-project/actions/workflows/static-code.yml/badge.svg?branch=main)|
 |![Unit testing](https://github.com/minhaaz717/mini-project/actions/workflows/unit_testing.yml/badge.svg?branch=main)|
 |![Contribution Check - Git Inspector](https://github.com/minhaaz717/mini-project/actions/workflows/git-inspector.yml/badge.svg?branch=main)|
